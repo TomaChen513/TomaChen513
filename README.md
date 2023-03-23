@@ -47,9 +47,13 @@ In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out 
 - Dubbo
 - GRPC
 
-<center class="half">
-    <img src="https://github-readme-stats.vercel.app/api?username=TomaChen513&show_icons=true&count_private=true&theme=vue-dark" width="200"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomaChen513&theme=vue-dark)](https://github.com/TomaChen513" width="200"/>
-</center>
+<div style="display:inline-block">
+    <img src="https://github-readme-stats.vercel.app/api?username=TomaChen513&show_icons=true&count_private=true&theme=vue-dark">
+</div>
+<div style="display:inline-block">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomaChen513&theme=vue-dark">
+</div>
+
 
 ![tomaChen's github stats](https://github-readme-stats.vercel.app/api?username=TomaChen513&show_icons=true&count_private=true&theme=vue-dark)
 
