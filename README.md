@@ -8,9 +8,13 @@ In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out 
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomaChen513&theme=vue-dark" alt="Top Langs">
+    <img src="https://api.githubtrends.io/user/svg/TomaChen513/langs?time_range=one_year&loc_metric=changed&theme=bright_lights">
     <img src="https://github-readme-stats.vercel.app/api?username=TomaChen513&show_icons=true&count_private=true&theme=vue-dark" alt="tomaChen's github stats">
 </p>
+
+# https://api.githubtrends.io/user/svg/TomaChen513/langs?time_range=one_year&loc_metric=changed&theme=bright_lights
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=TomaChen513&theme=vue-dark" alt="Top Lang
 
 ## 🔭I’m currently code with
 
