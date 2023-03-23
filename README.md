@@ -70,21 +70,15 @@ In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out 
 
 ### 💬Contact Me
 
-- Gmail: plexpt@gmail.com
+- Gmail: xy_chen513@163.com
 
 ### 🌱 I’m currently learning
 
 - Spring Cloud
-- Flink
-- hadoop
-- nosql
-- mongodb
-- android
-- postgresql
-- freemarker
-- netty
+- Dubbo
+- GRPC
 
-![plex's github stats](https://github-readme-stats.vercel.app/api?username=plexpt&show_icons=true&count_private=true&theme=vue-dark)
+![tomaChen's github stats](https://github-readme-stats.vercel.app/api?username=TomaChen513&show_icons=true&count_private=true&theme=vue-dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plexpt&theme=vue-dark)](https://github.com/plexpt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomaChen513&theme=vue-dark)](https://github.com/TomaChen513)
