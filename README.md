@@ -2,10 +2,7 @@
 
 Welcome to my page! 
 
-In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/plexpt
-
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
-
 
 <p align="center">
     <img src="https://api.githubtrends.io/user/svg/TomaChen513/langs?time_range=one_year&loc_metric=changed&theme=bright_lights">
